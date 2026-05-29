@@ -1,4 +1,3 @@
-## Hi there 👋
 <H2>Hello ⸜(｡˃ ᵕ ˂ )⸝♡</H2>
 <p>I'm Mina (she/her), and this is my GitHub! Here I store some of the things I have been working on 💫</p>
 <p>I've just graduated 🎓 and am looking to really develop my skills and consolidate all I have learned over my degree.</p>
@@ -15,5 +14,5 @@
   <li>GY= gap year</li>
   <li>CC = creative computing degree</li>
 </ul>
-<p>** Links to further documentation may expire as I lose access to my university accounts</p>
+<p>* Links to further documentation may expire as I lose access to my university accounts</p>
 
