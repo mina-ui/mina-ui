@@ -14,5 +14,5 @@
   <li>GY= gap year</li>
   <li>CC = creative computing degree</li>
 </ul>
-<p>* Links to further documentation may expire as I lose access to my university accounts</p>
+<p>* Links to further documentation may expire as I lose access to my university accounts.</p>
 
