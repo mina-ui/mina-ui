@@ -10,4 +10,10 @@
 </ul>
 <p>I'm excited to be here more regularly and update with what I'm learning and working on ❤️🪱</p>
 
+<p>Key:</p>
+<ul>
+  <li>GY= gap year</li>
+  <li>CC = creative computing degree</li>
+</ul>
+<p>** Links to further documentation may expire as I lose access to my university accounts</p>
 
